@@ -927,7 +927,7 @@ body.light-theme {
   }
 
   .home__img {
-    width: 205px;
+    width: 180px;
   }
 
   .about__info {
@@ -1106,7 +1106,7 @@ body.light-theme {
   }
 
   .home__img {
-    width: 305px;
+    width: 290px;
   }
   .home__social-link {
     padding: 0.4rem;
@@ -1217,4 +1217,3 @@ body.light-theme {
     border-radius: 0.5rem;
   }
 }
-
