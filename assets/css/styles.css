@@ -1031,9 +1031,9 @@ body.light-theme {
     grid-template-columns: repeat(2, max-content);
   }
 
-  .work__img {
+  /* .work__img {
     width: 250px;
-  }
+  } */
 
   .testimonial__container {
     width: 600px;
