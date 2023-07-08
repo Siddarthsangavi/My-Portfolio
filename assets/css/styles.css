@@ -927,7 +927,7 @@ body.light-theme {
   }
 
   .home__img {
-    width: 200px;
+    width: 180px;
   }
 
   .about__info {
@@ -1032,7 +1032,7 @@ body.light-theme {
   }
 
   .work__img {
-    width: 280px;
+    width: 250px;
   }
 
   .testimonial__container {
@@ -1063,8 +1063,8 @@ body.light-theme {
   .contact__form {
     width: 360px;
     margin: 0 auto;
-  } 
-}*/
+  } */
+}
 
 /* @media screen and (min-width: 767px) {
   /* .work__container {
